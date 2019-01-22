@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         // Parse the location and create the intent.
         Uri addressUri = Uri.parse("geo:0,0?q=" + loc);
         Intent intent = new Intent(Intent.ACTION_VIEW, addressUri);
-
+        startActivity(intent);
         // Find an activity to handle the intent, and start that activity.
         if (intent.resolveActivity(getPackageManager()) != null) {
             startActivity(intent);
