@@ -56,6 +56,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button2"
         app:layout_constraintStart_toStartOf="parent"
-        android:autofillHints="" tools:targetApi="o"/>
+        android:autofillHints=""
+        tools:targetApi="o" />
 
 </android.support.constraint.ConstraintLayout>
