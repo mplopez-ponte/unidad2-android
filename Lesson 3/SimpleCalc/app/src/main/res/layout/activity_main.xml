@@ -30,7 +30,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/type_operand_one_hint"
-        android:inputType="numberDecimal"/>
+        android:inputType="numberDecimal"
+        android:importantForAutofill="no" />
 
     <EditText
         android:id="@+id/operand_two_edit_text"
