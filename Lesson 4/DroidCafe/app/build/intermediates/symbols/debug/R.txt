@@ -1208,11 +1208,11 @@ int id text2 0x7f0800b2
 int id textSpacerNoButtons 0x7f0800b3
 int id textSpacerNoTitle 0x7f0800b4
 int id textStart 0x7f0800b5
-int id text_input_password_toggle 0x7f0800b6
-int id textinput_counter 0x7f0800b7
-int id textinput_error 0x7f0800b8
-int id textinput_helper_text 0x7f0800b9
-int id textintro 0x7f0800ba
+int id textView 0x7f0800b6
+int id text_input_password_toggle 0x7f0800b7
+int id textinput_counter 0x7f0800b8
+int id textinput_error 0x7f0800b9
+int id textinput_helper_text 0x7f0800ba
 int id time 0x7f0800bb
 int id title 0x7f0800bc
 int id titleDividerNoCustom 0x7f0800bd

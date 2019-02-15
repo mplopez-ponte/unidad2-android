@@ -34,18 +34,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="url" value="jar:file:/home/maripaz/android-studio/plugins/android/lib/android.jar!/images/material_design_icons/action/ic_shopping_cart_black_24dp.xml" />
-                                              </map>
-                                            </option>
-                                          </PersistentState>
-                                        </value>
-                                      </entry>
-                                      <entry key="image">
-                                        <value>
-                                          <PersistentState>
-                                            <option name="values">
-                                              <map>
-                                                <entry key="color" value="000000" />
+                                                <entry key="url" value="jar:file:/home/maripaz/android-studio/plugins/android/lib/android.jar!/images/material_design_icons/maps/ic_local_grocery_store_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>

@@ -1131,10 +1131,10 @@ public final class R {
         public static final int text2 = 0x7f0800b2;
         public static final int textSpacerNoButtons = 0x7f0800b3;
         public static final int textSpacerNoTitle = 0x7f0800b4;
-        public static final int text_input_password_toggle = 0x7f0800b6;
-        public static final int textinput_counter = 0x7f0800b7;
-        public static final int textinput_error = 0x7f0800b8;
-        public static final int textinput_helper_text = 0x7f0800b9;
+        public static final int text_input_password_toggle = 0x7f0800b7;
+        public static final int textinput_counter = 0x7f0800b8;
+        public static final int textinput_error = 0x7f0800b9;
+        public static final int textinput_helper_text = 0x7f0800ba;
         public static final int time = 0x7f0800bb;
         public static final int title = 0x7f0800bc;
         public static final int titleDividerNoCustom = 0x7f0800bd;

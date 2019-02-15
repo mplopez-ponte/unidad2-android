@@ -609,11 +609,11 @@
                 {
                     "source": "/home/maripaz/AndroidStudioProjects/Lesson 4/DroidCafe/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2,1,10,7,4,6,9,8,5,3",
+                        "startLines": "2,1,7,8,4,6,10,9,5,3",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "64,16,665,440,171,363,596,509,250,117",
+                        "startOffsets": "64,16,440,498,171,363,654,567,250,117",
                         "endColumns": "52,47,57,68,78,76,68,86,112,53",
-                        "endOffsets": "112,59,718,504,245,435,660,591,358,166"
+                        "endOffsets": "112,59,493,562,245,435,718,649,358,166"
                     },
                     "to": {
                         "startLines": "566,567,570,573,574,577,578,580,581,582",
