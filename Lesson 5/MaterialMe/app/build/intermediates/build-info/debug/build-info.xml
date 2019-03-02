@@ -2,71 +2,36 @@
 <instant-run
     abi="x86_64,x86"
     api-level="26"
-    build-mode="FULL"
+    build-mode="COLD"
     density="560dpi"
     format="10"
     plugin-version="3.3.1"
-    timestamp="1551441829484"
+    timestamp="1551459466918"
     token="-5860073185369099945"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1067" />
+        duration="157" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="160" />
+        duration="0" />
     <task
         name="verifier"
-        duration="19" />
+        duration="0" />
 
     <artifact
         location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
         type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1551441829484"
-        verifier="FULL_BUILD_REQUESTED" >
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1551456713603"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
@@ -74,13 +39,49 @@
             location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1551459086022"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
             location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -89,23 +90,28 @@
             location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1551459466918"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>
