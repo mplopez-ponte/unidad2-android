@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2c9a04ae545510fd3277f45e3cf3e6af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a5ed189b608a3cb6450f33b6cd6f09a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4d494c7e732d04c57999e5c242942347/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/64bb75b0610cef0d87d92d3f55e56a41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dde1e936bc478d42294e9e2555c69eb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cbdd69bbdea46a3164a81ac58e08ec56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb0257c77c42ec80856fae1f97cdc77e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/67ffa0dc77897d17bcfacc8e39a0456e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4f7cce2f87e180f549ef4e5971933eb7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/75701ac469361241ad4824423ff3b66e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0cedc60d3e7b12f30f28cf47072c3f3c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2c9a04ae545510fd3277f45e3cf3e6af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2c9a04ae545510fd3277f45e3cf3e6af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a5ed189b608a3cb6450f33b6cd6f09a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a5ed189b608a3cb6450f33b6cd6f09a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4d494c7e732d04c57999e5c242942347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4d494c7e732d04c57999e5c242942347/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/64bb75b0610cef0d87d92d3f55e56a41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/64bb75b0610cef0d87d92d3f55e56a41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dde1e936bc478d42294e9e2555c69eb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dde1e936bc478d42294e9e2555c69eb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cbdd69bbdea46a3164a81ac58e08ec56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cbdd69bbdea46a3164a81ac58e08ec56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb0257c77c42ec80856fae1f97cdc77e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/maripaz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/bb0257c77c42ec80856fae1f97cdc77e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/67ffa0dc77897d17bcfacc8e39a0456e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/67ffa0dc77897d17bcfacc8e39a0456e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4f7cce2f87e180f549ef4e5971933eb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4f7cce2f87e180f549ef4e5971933eb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/75701ac469361241ad4824423ff3b66e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/75701ac469361241ad4824423ff3b66e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0cedc60d3e7b12f30f28cf47072c3f3c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/maripaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0cedc60d3e7b12f30f28cf47072c3f3c/AndroidManifest.xml:20:5-44
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		ADDED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maripaz/AndroidStudioProjects/Lesson 3/SimpleCalcTest/app/src/main/AndroidManifest.xml

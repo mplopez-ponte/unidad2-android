@@ -1,0 +1,4 @@
+#Fri Mar 01 21:02:09 CET 2019
+base.0=/home/maripaz/AndroidStudioProjects/Lesson 5/MaterialMe-Resource/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
