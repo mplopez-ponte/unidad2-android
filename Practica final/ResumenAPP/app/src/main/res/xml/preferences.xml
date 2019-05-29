@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="true"
+        android:key="example_switch"
+        android:summary="Turn this option on or off"
+        android:title="Settings option" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="check_box_preference"
+        android:summary="Check or uncheck option"
+        android:title="Check box " />
+</PreferenceScreen>
